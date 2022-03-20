@@ -11,7 +11,7 @@ Regardless of whether dealing with scholastic, extracurricular, or professional 
 ## Languages and Tools  
 <!-- Programming Languages -->
 <p align="left">
-Programming Languages:
+Programming Languages: 
 <!-- Python -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/></a>
 <!-- Javascript -->
@@ -22,7 +22,7 @@ Programming Languages:
 
 <!-- Backend -->
 <p align="left">
-Backend:
+Backend: 
 <!-- PHP -->
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="25" height="25"/> </a>
 <!-- CodeIgniter -->
@@ -35,7 +35,7 @@ Backend:
 
 <!-- Frontend -->
 <p align="left">
-Frontend:
+Frontend: 
 <!-- HTML  -->
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25"/> </a>
 <!-- CSS -->
@@ -52,7 +52,7 @@ Frontend:
 
 <!-- Database -->
 <p align="left">
-Database:
+Database: 
 <!-- Oracle -->
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="25" height="25"/> </a>
 <!-- MySQL -->
@@ -67,7 +67,7 @@ Database:
 
 <!-- Design -->
 <p align="left">
-Design:
+Design: 
 <!-- Figma -->
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="25" height="25"/> </a>
 <!-- Photoshop -->
@@ -82,7 +82,7 @@ Design:
 
 <!-- CSS Libraries -->
 <p align="left">
-CSS Libraries: 
+CSS Libraries:  
 <!-- BootStrap -->
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
 <!-- Bulma -->
