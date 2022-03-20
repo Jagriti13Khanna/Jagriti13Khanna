@@ -84,16 +84,16 @@ Design:&ensp;
 <p align="left">
 CSS Libraries:&ensp;   
 <!-- BootStrap -->
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>&emsp; 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="25" height="25"/></a>&emsp; 
 <!-- Bulma -->
-<a href="https://bulma.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a>&emsp;
+<a href="https://bulma.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="25" height="25"/> </a>&emsp;
 <!-- Tailwind -->
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="25" height="25"/> </a>
 </p>
 
 
-
 <!-- ## TECHNICAL SKILLS
+
 Programming Languages |  Python, JavaScript, TypeScript, C++, SQL
 :--------------------- | :---------------------------------------
 Backend |  PHP, Django, Node.js, Apache
@@ -102,4 +102,8 @@ Database |  Oracle, MySQL, SQLite, PostgreSQL, Firebase
 Marketing |  Lyris, Joomla, MailChimp, WordPress
 SEO |  Conductor, SEMRush, Google AdWords, HubSpot, Google Analytics
 Design |  Figma, Adobe Creative Suite, Canva, VistaPrint
-CSS Libraries |  BootStrap, Tailwind, Bulma -->
+CSS Libraries |  BootStrap, Tailwind, Bulma
+ -->
+
+## My Github Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jagriti13Khanna&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
