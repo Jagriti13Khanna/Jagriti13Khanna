@@ -11,7 +11,7 @@ Regardless of whether dealing with scholastic, extracurricular, or professional 
 ## Languages and Tools  
 <!-- Programming Languages -->
 <p align="left">
-Programming Languages: 
+Programming Languages:&nbsp; 
 <!-- Python -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/></a>
 <!-- Javascript -->
