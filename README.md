@@ -9,7 +9,7 @@ I am presently a student at NAIT (Northern Alberta Institute of Technology) purs
 Regardless of whether dealing with scholastic, extracurricular, or professional ventures, I apply proven teamwork, communication, and an enthusiastic side to work and share my knowledge with the team. I consider myself hardworking, willing to expand my knowledge and skills by learning new things. Being a focused and persistent student, my sturdy work ethic helps me in finishing the tasks promptly.
 
 ## TECHNICAL SKILLS
-<h3>Programming Languages:</h3> Python, JavaScript, TypeScript, C++, SQL
+<div><h3>Programming Languages:</h3> Python, JavaScript, TypeScript, C++, SQL</div>
 <h3>Backend:</h3> PHP, Django, Node.js, Apache
 <h3>Frontend:</h3> HTML5, CSS3, Sass, React.js, Vue.js
 <h3>Database:</h3> Oracle, MySQL, SQLite, PostgreSQL, Firebase
