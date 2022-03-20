@@ -107,3 +107,5 @@ CSS Libraries |  BootStrap, Tailwind, Bulma
 
 ## My Github Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jagriti13Khanna&theme=merko&date_format=M%20j%5B%2C%20Y%5D&fire=EA4846&background=020000&dates=2E7EE7&stroke=EA4846)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jagriti13khanna&theme=highcontrast&show_icons=true)
