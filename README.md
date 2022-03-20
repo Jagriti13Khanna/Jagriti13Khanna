@@ -9,11 +9,11 @@ I am presently a student at NAIT (Northern Alberta Institute of Technology) purs
 Regardless of whether dealing with scholastic, extracurricular, or professional ventures, I apply proven teamwork, communication, and an enthusiastic side to work and share my knowledge with the team. I consider myself hardworking, willing to expand my knowledge and skills by learning new things. Being a focused and persistent student, my sturdy work ethic helps me in finishing the tasks promptly.
 
 ## TECHNICAL SKILLS
-<div style="display:flex; flex-wrap: wrap;"><h3>Programming Languages:</h3> Python, JavaScript, TypeScript, C++, SQL</div>
-<h3>Backend:</h3> PHP, Django, Node.js, Apache
-<h3>Frontend:</h3> HTML5, CSS3, Sass, React.js, Vue.js
-<h3>Database:</h3> Oracle, MySQL, SQLite, PostgreSQL, Firebase
-<h3>Marketing:</h3> Lyris, Joomla, MailChimp, WordPress
-<h3>SEO:</h3> Conductor, SEMRush, Google AdWords, HubSpot, Google Analytics
-<h3>Design:</h3> Figma, Adobe Creative Suite, Canva, VistaPrint
-<h3>CSS Libraries:</h3> BootStrap, Tailwind, Bulma
+<div><h3 style="display:inline-block">Programming Languages:</h3> Python, JavaScript, TypeScript, C++, SQL</div>
+<div><h3 style="display:inline-block">Backend:</h3> PHP, Django, Node.js, Apache</div>
+<div><h3 style="display:inline-block">Frontend:</h3> HTML5, CSS3, Sass, React.js, Vue.js</div>
+<div><h3 style="display:inline-block">Database:</h3> Oracle, MySQL, SQLite, PostgreSQL, Firebase</div>
+<div><h3 style="display:inline-block">Marketing:</h3> Lyris, Joomla, MailChimp, WordPress</div>
+<div><h3 style="display:inline-block">SEO:</h3> Conductor, SEMRush, Google AdWords, HubSpot, Google Analytics</div>
+<div><h3 style="display:inline-block">Design:</h3> Figma, Adobe Creative Suite, Canva, VistaPrint</div>
+<div><h3 style="display:inline-block">CSS Libraries:</h3> BootStrap, Tailwind, Bulma</div>
