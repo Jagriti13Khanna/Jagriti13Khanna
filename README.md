@@ -106,6 +106,7 @@ CSS Libraries |  BootStrap, Tailwind, Bulma
  -->
 
 ## My Github Stats and Top Languages
+[![Jagriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=jagriti13khanna&theme=highcontrast)](https://github.com/jagriti13khanna/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jagriti13khanna&langs_count=8)](https://github.com/jagriti13khanna/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jagriti13khanna)](https://github.com/jagriti13khanna/github-readme-stats)
+
 
