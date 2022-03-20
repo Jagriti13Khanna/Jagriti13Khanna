@@ -8,4 +8,5 @@ I am presently a student at NAIT (Northern Alberta Institute of Technology) purs
 
 Regardless of whether dealing with scholastic, extracurricular, or professional ventures, I apply proven teamwork, communication, and an enthusiastic side to work and share my knowledge with the team. I consider myself hardworking, willing to expand my knowledge and skills by learning new things. Being a focused and persistent student, my sturdy work ethic helps me in finishing the tasks promptly.
 
-## My Skill Set  
+## TECHNICAL SKILLS
+<h3>jcdnljk</h3>
