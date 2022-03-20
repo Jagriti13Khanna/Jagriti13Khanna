@@ -9,12 +9,12 @@ I am presently a student at NAIT (Northern Alberta Institute of Technology) purs
 Regardless of whether dealing with scholastic, extracurricular, or professional ventures, I apply proven teamwork, communication, and an enthusiastic side to work and share my knowledge with the team. I consider myself hardworking, willing to expand my knowledge and skills by learning new things. Being a focused and persistent student, my sturdy work ethic helps me in finishing the tasks promptly.
 
 ## TECHNICAL SKILLS
-Programming Languages: | Python, JavaScript, TypeScript, C++, SQL
-:---------------------: | :---------------------------------------:
-Backend: | PHP, Django, Node.js, Apache
-Frontend: | HTML5, CSS3, Sass, React.js, Vue.js
-Database: | Oracle, MySQL, SQLite, PostgreSQL, Firebase
-Marketing: | Lyris, Joomla, MailChimp, WordPress
-SEO: | Conductor, SEMRush, Google AdWords, HubSpot, Google Analytics
-Design: | Figma, Adobe Creative Suite, Canva, VistaPrint
-CSS Libraries: | BootStrap, Tailwind, Bulma
+Programming Languages: |  Python, JavaScript, TypeScript, C++, SQL
+:---------------------: | :---------------------------------------
+Backend: |  PHP, Django, Node.js, Apache
+Frontend: |  HTML5, CSS3, Sass, React.js, Vue.js
+Database: |  Oracle, MySQL, SQLite, PostgreSQL, Firebase
+Marketing: |  Lyris, Joomla, MailChimp, WordPress
+SEO: |  Conductor, SEMRush, Google AdWords, HubSpot, Google Analytics
+Design: |  Figma, Adobe Creative Suite, Canva, VistaPrint
+CSS Libraries: |  BootStrap, Tailwind, Bulma
