@@ -24,7 +24,7 @@ Programming Languages:&ensp;
 <p align="left">
 Backend:&ensp;  
 <!-- PHP -->
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://github.com/Jagriti13Khanna/Jagriti13Khanna/main/php-logo.png" alt="django" width="30" height="30"/> </a>&ensp;
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://github.com/Jagriti13Khanna/Jagriti13Khanna/main/php-logo.png" alt="php" width="30" height="30"/> </a>&ensp;
 <!-- CodeIgniter -->
 <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="30" height="30"/> </a> &ensp;
 <!-- Django -->
