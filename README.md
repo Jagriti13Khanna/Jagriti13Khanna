@@ -3,8 +3,9 @@
 <img src="https://github.com/Jagriti13Khanna/Jagriti13Khanna/blob/main/header-banner-v2.png" alt="Banner image telling my name and my title.">
 
 ## Glad to see you here!
+I am a recently graduated student from NAIT (Northern Alberta Institute of Technology) with a Web Development and Design diploma. It would not be an understatement to say that coding and design are what I am passionate about. My expertise includes coding in programming languages – HTML, CSS, JavaScript, PHP, Joomla, C++, and Python besides database programming in MYSQL. I am also skilled in Adobe Illustrator, Adobe Photoshop, Digital Photography, Adobe XD, Adobe InDesign, Canva, and Figma.   
 
-I am presently a student at NAIT (Northern Alberta Institute of Technology) pursuing a Web Development and Design diploma with expected completion in April, 2022. I enjoy devising websites from scratch by involving all the stages, from creating low fidelity wireframes to high fidelity designs and then bringing those designs to life by coding them. Writing semantic code and following a mobile-first approach is what I am proficient in. In addition, my knowledge in search engine optimization assists me in up ranking positions by following numerous techniques.
+I enjoy devising websites from scratch by involving all the stages, from creating low fidelity wireframes to high fidelity designs and then bringing those designs to life by coding them. Writing semantic code and following a mobile-first approach is what I am proficient in. In addition, my knowledge in search engine optimization assists me in up ranking positions by following numerous techniques.   
 
 Regardless of whether dealing with scholastic, extracurricular, or professional ventures, I apply proven teamwork, communication, and an enthusiastic side to work and share my knowledge with the team. I consider myself hardworking, willing to expand my knowledge and skills by learning new things. Being a focused and persistent student, my sturdy work ethic helps me in finishing the tasks promptly.
 
