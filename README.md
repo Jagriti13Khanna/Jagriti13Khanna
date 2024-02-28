@@ -106,10 +106,6 @@ Design |  Figma, Adobe Creative Suite, Canva, VistaPrint
 CSS Libraries |  BootStrap, Tailwind, Bulma
  -->
 
-## My Github Stats and Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jagriti13khanna&langs_count=8&theme=merko&show_icons=true&border_color=hide_border&text_color=#2A7BE5&icon_color=#E94A47)](https://github.com/jagriti13khanna/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jagriti13khanna&theme=merko&show_icons=true&border_color="#2A7BE5"&text_color=#2A7BE5&icon_color=#E94A47)](https://github.com/jagriti13khanna/github-readme-stats)
-
 <!-- ## Connect with me  -->
 
 
